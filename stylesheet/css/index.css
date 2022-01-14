@@ -1,0 +1,46 @@
+.gridItem {
+  background-color: pink;
+  margin: 10px;
+}
+
+.gridContainer {
+  background-color: powderblue;
+}
+
+.nav {
+  color: white;
+  display: inline;
+  margin: 10px;
+}
+
+.boton {
+  display: flexbox;
+  flex-direction: column;
+  justify-content: end;
+}
+
+.primero {
+  background-color: #c5c3c3;
+}
+
+.grilla {
+  padding: 10px;
+}
+
+.contenedorPadre {
+  border: red solid 10px;
+  height: 90px;
+  width: 50%;
+}
+
+.ContenedorHijo {
+  border: springgreen solid 5px;
+  height: 50%;
+  width: 50%;
+  background-color: steelblue;
+  position: relative;
+  top: 0px;
+  bottom: 0%;
+  right: 0%;
+  left: 0%;
+}
